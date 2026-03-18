@@ -1,0 +1,1 @@
+This project analyzes biodiversity using species and observation data. I studied species diversity, distribution, and conservation status using Python. I also applied statistical testing and visualizations to understand patterns and highlight endangered species.
